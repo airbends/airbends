@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-I’m an **intermediate full-stack dev** messing around with  
+I’m a **full-stack dev in progress**  messing around with  
 **JS, React, Node, Express, TS, MySQL**.  
   
-💥 I’m pretty good at breaking my university practical codes…  
+I’m pretty good at breaking my university practical codes…  
 
-### 🌱 Right now I’m  
+### Right now I’m  
 - Building small projects with React + Node  
 - Trying to make TypeScript my friend  
 - Practicing problem solving (and collecting bugs 🐛)  
 
-### ✨ Fun facts  
-- Debugging takes 90% of my time (and I still miss a semicolon).  
-- Coffee ☕ is my co-developer.  
+### Fun facts  
+  - Coffee is my co-developer.  
 - If it works on my machine → it’s officially “done”.  
  
 
