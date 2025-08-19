@@ -2,8 +2,7 @@
 
 I’m an **intermediate full-stack dev** messing around with  
 **JS, React, Node, Express, TS, MySQL**.  
-Sometimes I cheat on them with **C++** or **Python** 🤓.  
-
+  
 💥 I’m pretty good at breaking my university practical codes…  
 
 ### 🌱 Right now I’m  
@@ -15,7 +14,7 @@ Sometimes I cheat on them with **C++** or **Python** 🤓.
 - Debugging takes 90% of my time (and I still miss a semicolon).  
 - Coffee ☕ is my co-developer.  
 - If it works on my machine → it’s officially “done”.  
-- I break code on purpose just to see how bad it can get 😂.  
+ 
 
 ---
 <!--
