@@ -2,16 +2,14 @@
 
 <h3><code>airbends@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top">
-<img src="./airbends-ascii.svg" width="370" alt="airbends ASCII portrait" />
-</td>
-<td valign="top">
-<img src="./wordmark.svg" width="490" alt="AIRBENDS ASCII Wordmark" />
-</td>
-</tr>
-</table>
+<pre>
+██╗██████╗ ███████╗███████╗ █████╗ ███╗   ██╗
+██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
+██║██████╔╝█████╗  █████╗  ███████║██╔██╗ ██║
+██║██╔══██╗██╔══╝  ██╔══╝  ██╔══██║██║╚██╗██║
+██║██║  ██║██║     ██║     ██║  ██║██║ ╚████║
+╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
 
 <br><br>
 
@@ -42,9 +40,7 @@
 <h3><code>airbends@github ~ $ ./tech-stack.sh</code></h3>
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,express,django,html,css,tailwind,mysql,git,github,vscode&theme=dark" />
-
 </p>
 
 <br>
@@ -52,8 +48,6 @@
 <h3><code>airbends@github ~ $ ./irfaninamdar.netlify.app</code></h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-airbends-181717?style=for-the-badge&logo=github)](https://github.com/airbends)
-
-<!-- Replace these with your own links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)](#)
 
