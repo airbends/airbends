@@ -33,7 +33,7 @@
 > Backend     : Node.js • Django • Express
 > Database    : MySQL
 > Tools       : Git • GitHub • VS Code
-> Learning    : System Design • DevOps • AI
+> Learning    : System Design • AI
 > Status      : Building projects and learning every day.
 ```
 
@@ -49,7 +49,7 @@
 
 <br>
 
-<h3><code>airbends@github ~ $ ./connect.sh</code></h3>
+<h3><code>airbends@github ~ $ ./irfaninamdar.netlify.app</code></h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-airbends-181717?style=for-the-badge&logo=github)](https://github.com/airbends)
 
