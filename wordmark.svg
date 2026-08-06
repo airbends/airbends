@@ -1,38 +1,6 @@
-<div align="center">
-
-<h3><code>irfan@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top">
-<img src="./irfan-ascii.svg" width="370" alt="Irfan — ASCII portrait" />
-</td>
-<td valign="top">
-<img src="./wordmark.svg" width="490" alt="IRFAN — 3D ASCII wordmark" />
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<h3><code>irfan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Irfan's GitHub contribution graph — auto-refreshed daily" />
-
-<br><br>
-
-<h3><code>irfan@github ~ $ ./links.sh</code></h3>
-
-<p><b>Full Stack Developer · AI Enthusiast · Open Source Learner</b></p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-airbends-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/airbends)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Coming_Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-
-<br>
-
-</div>
+██╗██████╗ ███████╗ █████╗ ███╗   ██╗
+██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+██║██████╔╝█████╗  ███████║██╔██╗ ██║
+██║██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║
+██║██║  ██║██║     ██║  ██║██║ ╚████║
+╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
